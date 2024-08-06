@@ -1,6 +1,6 @@
 # Getting Started with a to-do list frontend
 
-This backend is aim to provide interface for the user to read, create, delete and update a to-do list.
+This frontend is aim to provide interface for the user to read, create, delete and update a to-do list.
 This project must be run with to-do list backend.
 
 # Initialise to do:
