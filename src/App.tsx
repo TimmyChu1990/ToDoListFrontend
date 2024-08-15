@@ -56,7 +56,7 @@ export const updateDutyAPI = async (duty: dutyType) => {
 
 export const deleteDutyAPI = async (id: string) => {
   try {
-    const response = await fetch(API_URL + "deleteDuty", {
+    await fetch(API_URL + "deleteDuty", {
         method: "DELETE",
         headers: {
             "Content-Type": "application/json"
