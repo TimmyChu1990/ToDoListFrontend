@@ -139,6 +139,7 @@ function App() {
        :
       <div>No duties to show</div>}
       <h5 style={{marginTop: '20px'}}>Double click the duty to edit.</h5>
+      <h5 style={{marginTop: '20px'}}>GitHub Actions applied.</h5>
     </div>
   );
 }
